@@ -18,3 +18,4 @@ Welcome to the Machine Learning & Security Seminar.
 |       |          | [CNN-generated images are surprisingly easy to spot... for now](https://arxiv.org/pdf/1912.11035.pdf) | CVPR 2020 |
 | 06/25 | Yingqi Liu | [Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger](https://arxiv.org/pdf/2105.12400.pdf) | ACL 2021 |
 |       |          | [Turn the Combination Lock:Learnable Textual Backdoor Attacks via Word Substitution](https://arxiv.org/pdf/2106.06361.pdf) | arXiv 2021 |
+| 07/02 | Guanhong Tao | Two backdoor learning papers |  - |
