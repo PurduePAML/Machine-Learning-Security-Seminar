@@ -20,3 +20,4 @@ Welcome to the Machine Learning & Security Seminar.
 |       |          | [Turn the Combination Lock:Learnable Textual Backdoor Attacks via Word Substitution](https://arxiv.org/pdf/2106.06361.pdf) | arXiv 2021 |
 | 07/02 | Guanhong Tao | Backdoor learning |  - |
 | 07/09 | Guangyu Shen | [See through Gradients: Image Batch Recovery via GradInversion](https://arxiv.org/pdf/2104.07586.pdf) | CVPR 2021 |
+| 07/16 |  | Skipped |  |
