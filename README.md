@@ -22,4 +22,4 @@ Welcome to the Machine Learning & Security Seminar.
 | 07/09 | Guangyu Shen | [See through Gradients: Image Batch Recovery via GradInversion](https://arxiv.org/pdf/2104.07586.pdf) | CVPR 2021 |
 | 07/16 | - | Skipped | - |
 | 07/23 | Kaiyuan Zhang | [How To Backdoor Federated Learning](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf) | PMLR 2020 |
-|  |  | [Attack of the Tails: Yes, You Really Can Backdoor Federated Learning](https://papers.nips.cc/paper/2020/file/b8ffa41d4e492f0fad2f13e29e1762eb-Paper.pdf) | Neurips 2020 |
+|  |  | [Attack of the Tails: Yes, You Really Can Backdoor Federated Learning](https://papers.nips.cc/paper/2020/file/b8ffa41d4e492f0fad2f13e29e1762eb-Paper.pdf) | NeurIPS 2020 |
