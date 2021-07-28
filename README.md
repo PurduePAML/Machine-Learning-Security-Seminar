@@ -23,3 +23,5 @@ Welcome to the Machine Learning & Security Seminar.
 | 07/16 | - | Skipped | - |
 | 07/23 | Kaiyuan Zhang | [How To Backdoor Federated Learning](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf) | PMLR 2020 |
 |  |  | [Attack of the Tails: Yes, You Really Can Backdoor Federated Learning](https://papers.nips.cc/paper/2020/file/b8ffa41d4e492f0fad2f13e29e1762eb-Paper.pdf) | NeurIPS 2020 |
+| 07/30 | Shengwei An | [Face Forgery Detection by 3D Decomposition](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Face_Forgery_Detection_by_3D_Decomposition_CVPR_2021_paper.pdf) | CVPR 2021 |
+|       |          | [CVPR 2021 Improving the Efficiency and Robustness of Deepfakes Detection through Precise Geometric Features](https://arxiv.org/pdf/2104.04480.pdf) | CVPR 2021 |
