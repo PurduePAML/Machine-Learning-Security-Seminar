@@ -25,3 +25,4 @@ Welcome to the Machine Learning & Security Seminar.
 |  |  | [Attack of the Tails: Yes, You Really Can Backdoor Federated Learning](https://papers.nips.cc/paper/2020/file/b8ffa41d4e492f0fad2f13e29e1762eb-Paper.pdf) | NeurIPS 2020 |
 | 07/30 | Shengwei An | [Improving the Efficiency and Robustness of Deepfakes Detection through Precise Geometric Features](https://arxiv.org/pdf/2104.04480.pdf) | CVPR 2021 |
 | 08/06 | Yingqi Liu | [Detecting AI Trojans Using Meta Neural Analysis](https://arxiv.org/pdf/1910.03137.pdf) | S&P 2021 |
+| 08/13 | Guanhong Tao | [Double-Cross Attacks: Subverting Active Learning Systems](https://www.usenix.org/system/files/sec21-vicarte.pdf) |  USENIX 2021 |
