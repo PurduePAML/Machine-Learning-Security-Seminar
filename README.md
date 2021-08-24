@@ -7,7 +7,7 @@ Welcome to the Machine Learning & Security Seminar.
 ### Fall 2021
 | Date | Discussion Leader | Title | Source |
 | :------| :---------| :-------| :-------|
-|  |  |  |  |
+| 08/27 | Zhiyuan Cheng | Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack | USENIX 2021 |
 
 <br>
 
