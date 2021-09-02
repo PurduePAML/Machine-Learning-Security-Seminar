@@ -8,7 +8,8 @@ Welcome to the Machine Learning & Security Seminar.
 | Date | Discussion Leader | Title | Source |
 | :------| :---------| :-------| :-------|
 | 08/27 | Zhiyuan Cheng | [Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack](https://www.usenix.org/system/files/sec21-sato.pdf) | USENIX 2021 |
-
+| 09/03 | Guangyu Shen | [Adversarial Attacks are Reversible with Natural Supervision](https://arxiv.org/abs/2103.14222) | ICCV 2021 |
+|   |   | [Poisoning and Backdooring Contrastive Learning](https://arxiv.org/pdf/2106.09667.pdf) | arXiv 2021 |
 <br>
 
 ### Summer 2021
