@@ -11,6 +11,8 @@ Welcome to the Machine Learning & Security Seminar.
 | 09/03 | - | Skipped | - |
 | 09/10 | Guangyu Shen | [Adversarial Attacks are Reversible with Natural Supervision](https://arxiv.org/abs/2103.14222) | ICCV 2021 |
 |   |   | [Poisoning and Backdooring Contrastive Learning](https://arxiv.org/pdf/2106.09667.pdf) | arXiv 2021 |
+| 09/17 | Xuan Chen | [Adversarial Policies: Attacking Deep Reinforcement Learning](https://arxiv.org/pdf/1905.10615.pdf) | ICLR 2020 |
+|   |   | [BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning](https://www.ijcai.org/proceedings/2021/0509.pdf) | IJCAI 2021	|
 <br>
 
 ### Summer 2021
