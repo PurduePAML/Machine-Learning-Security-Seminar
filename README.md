@@ -13,6 +13,7 @@ Welcome to the Machine Learning & Security Seminar.
 |   |   | [Poisoning and Backdooring Contrastive Learning](https://arxiv.org/pdf/2106.09667.pdf) | arXiv 2021 |
 | 09/17 | Xuan Chen | [Adversarial Policies: Attacking Deep Reinforcement Learning](https://arxiv.org/pdf/1905.10615.pdf) | ICLR 2020 |
 |   |   | [BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning](https://www.ijcai.org/proceedings/2021/0509.pdf) | IJCAI 2021	|
+| 09/24 | Guanhong Tao | [BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf) | S&P 2022 |
 <br>
 
 ### Summer 2021
