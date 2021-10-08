@@ -15,7 +15,8 @@ Welcome to the Machine Learning & Security Seminar.
 |   |   | [BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning](https://www.ijcai.org/proceedings/2021/0509.pdf) | IJCAI 2021	|
 | 09/24 | Guanhong Tao | [BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf) | S&P 2022 |
 | 10/01 | Qiuling Xu | [Stronger and Faster Wasserstein Adversarial Attacks](https://arxiv.org/abs/2008.02883) | ICML 2020 |
-| 10/08 | Zian Su | [Prefix-Tuning: Optimizing Continuous Prompt for Generation](https://arxiv.org/pdf/2101.00190.pdf) | ACL 2021 |
+| 10/08 | - | Skipped | - |
+| 10/15 | Zian Su | [Prefix-Tuning: Optimizing Continuous Prompt for Generation](https://arxiv.org/pdf/2101.00190.pdf) | ACL 2021 |
 <br>
 
 ### Summer 2021
