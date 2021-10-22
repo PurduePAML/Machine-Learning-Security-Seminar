@@ -17,6 +17,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 10/01 | Qiuling Xu | [Stronger and Faster Wasserstein Adversarial Attacks](https://arxiv.org/abs/2008.02883) | ICML 2020 |
 | 10/08 | - | Skipped | - |
 | 10/15 | Zian Su | [Prefix-Tuning: Optimizing Continuous Prompt for Generation](https://arxiv.org/pdf/2101.00190.pdf) | ACL 2021 |
+| 10/22 | Siyuan Cheng | Backdoor detection | - |
 <br>
 
 ### Summer 2021
