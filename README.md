@@ -18,7 +18,8 @@ Welcome to the Machine Learning & Security Seminar.
 | 10/08 | - | Skipped | - |
 | 10/15 | Zian Su | [Prefix-Tuning: Optimizing Continuous Prompt for Generation](https://arxiv.org/pdf/2101.00190.pdf) | ACL 2021 |
 | 10/22 | Siyuan Cheng | Backdoor detection | - |
-| 10/29 | Guanhong Tao | Backdoor defense | - |
+| 10/29 | - | Skipped | - |
+| 11/05 | Guanhong Tao | Backdoor defense | - |
 <br>
 
 ### Summer 2021
