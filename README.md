@@ -20,6 +20,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 10/22 | Siyuan Cheng | Backdoor detection | - |
 | 10/29 | - | Skipped | - |
 | 11/05 | Guanhong Tao | Backdoor defense | - |
+| 11/12 | - | Skipped | - |
 <br>
 
 ### Summer 2021
