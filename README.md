@@ -21,6 +21,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 10/29 | - | Skipped | - |
 | 11/05 | Guanhong Tao | Backdoor defense | - |
 | 11/12 | - | Skipped | - |
+| 11/19 | Shengwei An | Neural code editing | - |
 <br>
 
 ### Summer 2021
