@@ -22,6 +22,9 @@ Welcome to the Machine Learning & Security Seminar.
 | 11/05 | Guanhong Tao | Backdoor defense | - |
 | 11/12 | - | Skipped | - |
 | 11/19 | Shengwei An | Neural code editing | - |
+| 11/26 | - | Skipped | - |
+| 12/03 | Kaiyuan Zhang | [Model-Contrastive Federated Learning](https://arxiv.org/pdf/2103.16257.pdf) | CVPR 2021 |
+
 <br>
 
 ### Summer 2021
