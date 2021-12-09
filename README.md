@@ -24,6 +24,8 @@ Welcome to the Machine Learning & Security Seminar.
 | 11/19 | Shengwei An | Neural code editing | - |
 | 11/26 | - | Skipped | - |
 | 12/03 | Kaiyuan Zhang | [Model-Contrastive Federated Learning](https://arxiv.org/pdf/2103.16257.pdf) | CVPR 2021 |
+| 12/03 | Yingqi Liu | [Hidden Backdoors in Human-Centric Language Models](https://arxiv.org/pdf/2105.00164.pdf) | CCS 2021 |
+|   |   | [Backdoor Pre-trained Models Can Transfer to All](https://arxiv.org/pdf/2111.00197.pdf) | CCS 2021 |
 
 <br>
 
