@@ -27,6 +27,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 12/10 | Yingqi Liu | [Hidden Backdoors in Human-Centric Language Models](https://arxiv.org/pdf/2105.00164.pdf) | CCS 2021 |
 |   |   | [Backdoor Pre-trained Models Can Transfer to All](https://arxiv.org/pdf/2111.00197.pdf) | CCS 2021 |
 | 12/17 | Guangyu Shen | [Rethinking Stealthiness of Backdoor Attack against NLP Models](https://aclanthology.org/2021.acl-long.431.pdf) | ACL 2021 |
+| 12/24 | - | Skipped | - |
 <br>
 
 ### Summer 2021
