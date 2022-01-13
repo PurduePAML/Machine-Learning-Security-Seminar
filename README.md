@@ -8,6 +8,7 @@ Welcome to the Machine Learning & Security Seminar.
 | Date | Discussion Leader | Title | Source |
 | :------| :---------| :-------| :-------|
 | 01/07 | Zian Su | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf) | arXiv 2021 |
+| 01/14 | Cancelled |  |  |
 
 ### Fall 2021
 | Date | Discussion Leader | Title | Source |
