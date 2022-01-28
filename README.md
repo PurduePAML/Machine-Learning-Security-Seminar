@@ -10,6 +10,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 01/07 | Zian Su | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf) | arXiv 2021 |
 | 01/14 | Canceled |  |  |
 | 01/21 | Shiwei Feng | [Adversarial Neuron Pruning Purifies Backdoored Deep Models](https://arxiv.org/pdf/2110.14430.pdf) | NeurIPS 2021 |
+| 01/28 | Canceled |  |  |
 
 ### Fall 2021
 | Date | Discussion Leader | Title | Source |
