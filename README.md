@@ -12,6 +12,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 01/21 | Shiwei Feng | [Adversarial Neuron Pruning Purifies Backdoored Deep Models](https://arxiv.org/pdf/2110.14430.pdf) | NeurIPS 2021 |
 | 01/28 | Canceled |  |  |
 | 02/04 | Shengwei An | [Get a Model! Model Hijacking Attack Against Machine Learning Models](https://arxiv.org/abs/2111.04394) | NDSS 2022 |
+| 02/11 | Siyuan Cheng | [Anti-Backdoor Learning: Training Clean Models on Poisoned Data](https://proceedings.neurips.cc/paper/2021/file/7d38b1e9bd793d3f45e0e212a729a93c-Paper.pdf) | NeurIPS 2021 |
 
 ### Fall 2021
 | Date | Discussion Leader | Title | Source |
