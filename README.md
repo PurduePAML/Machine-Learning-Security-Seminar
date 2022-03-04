@@ -15,6 +15,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 02/11 | Siyuan Cheng | [Anti-Backdoor Learning: Training Clean Models on Poisoned Data](https://proceedings.neurips.cc/paper/2021/file/7d38b1e9bd793d3f45e0e212a729a93c-Paper.pdf) | NeurIPS 2021 |
 | 02/18 | Guanhong Tao | [Traceback of Data Poisoning Attacks in Neural Networks](https://arxiv.org/pdf/2110.06904.pdf) | arXiv 2021 |
 | 02/25 | Canceled |  |  |
+| 03/04 | Kaiyuan Zhang | [Label Inference Attacks Against Vertical Federated Learning](https://www.usenix.org/system/files/sec22summer_fu.pdf) | USENIX 2022 |
 
 ### Fall 2021
 | Date | Discussion Leader | Title | Source |
