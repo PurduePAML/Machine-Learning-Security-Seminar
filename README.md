@@ -16,6 +16,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 02/18 | Guanhong Tao | [Traceback of Data Poisoning Attacks in Neural Networks](https://arxiv.org/pdf/2110.06904.pdf) | arXiv 2021 |
 | 02/25 | Canceled |  |  |
 | 03/04 | Kaiyuan Zhang | [Label Inference Attacks Against Vertical Federated Learning](https://www.usenix.org/system/files/sec22summer_fu.pdf) | USENIX 2022 |
+| 03/11 | Yingqi Liu | [Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning](https://arxiv.org/pdf/2108.10241.pdf) | S&P 2022 |
 
 ### Fall 2021
 | Date | Discussion Leader | Title | Source |
