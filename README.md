@@ -17,6 +17,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 02/25 | Canceled |  |  |
 | 03/04 | Kaiyuan Zhang | [Label Inference Attacks Against Vertical Federated Learning](https://www.usenix.org/system/files/sec22summer_fu.pdf) | USENIX 2022 |
 | 03/11 | Yingqi Liu | [Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning](https://arxiv.org/pdf/2108.10241.pdf) | S&P 2022 |
+| 03/18 | Xuan Chen | [Who Is the Strongest Enemy? Towards Optimal and Efficient Evasion Attacks in Deep RL](https://openreview.net/references/pdf?id=rnz8C_E3-q) | ICLR 2022 |
 
 ### Fall 2021
 | Date | Discussion Leader | Title | Source |
