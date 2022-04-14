@@ -21,6 +21,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 03/25 | Canceled |  |  |
 | 04/01 | Canceled |  |  |
 | 04/08 | Guangyu Shen | Backdoor defense |  |
+| 04/15 | Qiuling Xu | Few-shot learning in adversarial learning |  |
 
 ### Fall 2021
 | Date | Discussion Leader | Title | Source |
