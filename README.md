@@ -7,7 +7,7 @@ Welcome to the Machine Learning & Security Seminar.
 ### Summer 2022
 | Date | Discussion Leader | Title | Source |
 | :------| :---------| :-------| :-------|
-| 05/13 | Siyuan Cheng | [Class-Disentanglement and Applications in Adversarial Detection and Defense](https://proceedings.neurips.cc//paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf) | NeurIPS 2021 |
+| 05/20 | Siyuan Cheng | [Class-Disentanglement and Applications in Adversarial Detection and Defense](https://proceedings.neurips.cc//paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf) | NeurIPS 2021 |
 
 ### Spring 2022
 | Date | Discussion Leader | Title | Source |
@@ -31,6 +31,7 @@ Welcome to the Machine Learning & Security Seminar.
 |   |  | Model inversion defense |  |
 | 04/29 | Canceled |  |  |
 | 05/06 | Canceled |  |  |
+| 05/13 | Canceled |  |  |
 
 ### Fall 2021
 | Date | Discussion Leader | Title | Source |
