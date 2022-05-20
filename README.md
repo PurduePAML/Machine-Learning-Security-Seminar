@@ -1,10 +1,11 @@
 # Machine Learning & Security Seminar
 
-Welcome to the Machine Learning & Security Seminar.
+Welcome to Machine Learning & Security Seminar, organized by Prof.[Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/), in [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/).
 
 [[Summer 2022]](#Summer-2022), [[Spring 2022]](#Spring-2022), [[Fall 2021]](#Fall-2021), [[Summer 2021]](#Summer-2021)
 
 ### Summer 2022
+This semester the seminar is co-organized by Kaiyuan Zhang.
 | Date | Discussion Leader | Title | Source |
 | :------| :---------| :-------| :-------|
 | 05/20 | Yingqi Liu | Practice talk |  |
@@ -12,6 +13,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 05/27 | Siyuan Cheng | [Class-Disentanglement and Applications in Adversarial Detection and Defense](https://proceedings.neurips.cc//paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf) | NeurIPS 2021 |
 
 ### Spring 2022
+This semester the seminar is co-organized by Kaiyuan Zhang.
 | Date | Discussion Leader | Title | Source |
 | :------| :---------| :-------| :-------|
 | 01/07 | Zian Su | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf) | arXiv 2021 |
@@ -36,6 +38,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 05/13 | Canceled |  |  |
 
 ### Fall 2021
+This semester the seminar is co-organized by Kaiyuan Zhang.
 | Date | Discussion Leader | Title | Source |
 | :------| :---------| :-------| :-------|
 | 08/27 | Zhiyuan Cheng | [Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack](https://www.usenix.org/system/files/sec21-sato.pdf) | USENIX 2021 |
@@ -60,6 +63,7 @@ Welcome to the Machine Learning & Security Seminar.
 | 12/17 | Guangyu Shen | [Rethinking Stealthiness of Backdoor Attack against NLP Models](https://aclanthology.org/2021.acl-long.431.pdf) | ACL 2021 |
 
 ### Summer 2021
+This semester the seminar is co-organized by Kaiyuan Zhang.
 | Date | Discussion Leader | Title | Source |
 | :------| :---------| :-------| :-------|
 | 05/13 | Guanhong Tao | [What Doesn't Kill You Makes You Robust(er): Adversarial Training against Poisons and Backdoors](https://arxiv.org/pdf/2102.13624.pdf) | arXiv 2021 |
