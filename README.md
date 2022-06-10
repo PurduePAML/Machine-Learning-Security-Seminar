@@ -11,6 +11,8 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 05/20 | Yingqi Liu | Practice talk |  |
 |  | Guanhong Tao | Practice talk |  |
 | 05/27 | Siyuan Cheng | [Class-Disentanglement and Applications in Adversarial Detection and Defense](https://proceedings.neurips.cc//paper/2021/file/8606f35ec6c77858dfb80a385d0d1151-Paper.pdf) | NeurIPS 2021 |
+| 06/03 | Canceled |  |  |
+| 06/10 | Guanhong Tao | Backdoor defense |  |
 
 ### Spring 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
