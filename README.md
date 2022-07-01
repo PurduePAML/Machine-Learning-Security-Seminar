@@ -15,6 +15,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 06/10 | Guanhong Tao | Backdoor defense |  |
 | 06/17 | Canceled |  |  |
 | 06/24 | Kaiyuan Zhang | [CAFE: Catastrophic Data Leakage in Vertical Federated Learning](https://arxiv.org/pdf/2110.15122.pdf) | NeurIPS 2021 |
+| 07/01 | Zian Su | [Black-Box Tuning for Language-Model-as-a-Service](https://arxiv.org/pdf/2201.03514.pdf) | ICML 2022 |
 
 ### Spring 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
