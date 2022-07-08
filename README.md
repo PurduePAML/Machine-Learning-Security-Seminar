@@ -1,6 +1,6 @@
 # Machine Learning & Security Seminar
 
-Welcome to Machine Learning & Security Seminar, organized by Prof.[Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/), in [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/).
+Welcome to Machine Learning & Security Seminar, organized by Samuel Conte Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/), in [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/).
 
 [[Summer 2022]](#Summer-2022), [[Spring 2022]](#Spring-2022), [[Fall 2021]](#Fall-2021), [[Summer 2021]](#Summer-2021)
 
