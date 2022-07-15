@@ -17,6 +17,8 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 06/24 | Kaiyuan Zhang | [CAFE: Catastrophic Data Leakage in Vertical Federated Learning](https://arxiv.org/pdf/2110.15122.pdf) | NeurIPS 2021 |
 | 07/01 | Zian Su | [Black-Box Tuning for Language-Model-as-a-Service](https://arxiv.org/pdf/2201.03514.pdf) | ICML 2022 |
 | 07/08 | Xuan Chen | [Robust Deep Reinforcement Learning through Adversarial Loss](https://papers.nips.cc/paper/2021/file/dbb422937d7ff56e049d61da730b3e11-Paper.pdf) | NeurIPS 2021 |
+| 07/15 | Lu Yan | [Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations](https://arxiv.org/pdf/2205.13616.pdf) | arXiv 2022 |
+|  |  | [Circumventing Backdoor Defenses That Are Based on Latent Separability](https://arxiv.org/pdf/2205.13613.pdf) | arXiv 2022 |
 
 ### Spring 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
