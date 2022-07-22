@@ -19,6 +19,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 07/08 | Xuan Chen | [Robust Deep Reinforcement Learning through Adversarial Loss](https://papers.nips.cc/paper/2021/file/dbb422937d7ff56e049d61da730b3e11-Paper.pdf) | NeurIPS 2021 |
 | 07/15 | Lu Yan | [Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations](https://arxiv.org/pdf/2205.13616.pdf) | arXiv 2022 |
 |  |  | [Circumventing Backdoor Defenses That Are Based on Latent Separability](https://arxiv.org/pdf/2205.13613.pdf) | arXiv 2022 |
+| 07/22 | Guanhong Tao | [Excess Capacity and Backdoor Poisoning](https://arxiv.org/pdf/2109.00685.pdf) | NeurIPS 2021 |
 
 ### Spring 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
