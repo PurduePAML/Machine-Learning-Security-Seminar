@@ -20,6 +20,8 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 07/15 | Lu Yan | [Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations](https://arxiv.org/pdf/2205.13616.pdf) | arXiv 2022 |
 |  |  | [Circumventing Backdoor Defenses That Are Based on Latent Separability](https://arxiv.org/pdf/2205.13613.pdf) | arXiv 2022 |
 | 07/22 | Guanhong Tao | [Excess Capacity and Backdoor Poisoning](https://arxiv.org/pdf/2109.00685.pdf) | NeurIPS 2021 |
+| 07/29 | Canceled |  |  |
+| 08/05 | Guangyu Shen | [SPECTRE: Defending Against Backdoor Attacks Using Robust Statistics](https://arxiv.org/pdf/2104.11315.pdf) | ICML 2021 |
 
 ### Spring 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
