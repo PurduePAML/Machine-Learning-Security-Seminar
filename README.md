@@ -23,6 +23,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 07/29 | Canceled |  |  |
 | 08/05 | Guangyu Shen | [SPECTRE: Defending Against Backdoor Attacks Using Robust Statistics](https://arxiv.org/pdf/2104.11315.pdf) | ICML 2021 |
 | 08/12 | Siyuan Cheng | [FLAME: Taming Backdoors in Federated Learning](https://arxiv.org/pdf/2101.02281.pdf) | USENIX 2022 |
+| 08/19 | Canceled |  |  |
 
 ### Spring 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
