@@ -2,7 +2,14 @@
 
 Welcome to Machine Learning & Security Seminar, organized by Samuel Conte Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/), in [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/).
 
-[[Summer 2022]](#Summer-2022), [[Spring 2022]](#Spring-2022), [[Fall 2021]](#Fall-2021), [[Summer 2021]](#Summer-2021)
+[[Fall 2022]](#Fall-2022), [[Summer 2022]](#Summer-2022), [[Spring 2022]](#Spring-2022), [[Fall 2021]](#Fall-2021), [[Summer 2021]](#Summer-2021)
+
+### Fall 2022
+This semester the seminar is co-organized by Kaiyuan Zhang.
+| Date | Discussion Leader | Title | Source |
+| :------| :---------| :-------| :-------|
+| 08/26 | Shengwei An | [Blacklight: Scalable Defense for Neural Networks against Query-Based Black-Box Attacks](https://www.usenix.org/conference/usenixsecurity22/presentation/li-huiying) | USENIX 2022 |
+
 
 ### Summer 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
