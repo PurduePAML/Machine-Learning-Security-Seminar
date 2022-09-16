@@ -11,6 +11,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 08/26 | Shengwei An | [Blacklight: Scalable Defense for Neural Networks against Query-Based Black-Box Attacks](https://www.usenix.org/conference/usenixsecurity22/presentation/li-huiying) | USENIX 2022 |
 | 09/02 | Yingqi Liu | [Not All Poisons are Created Equal: Robust Training against Data Poisoning](https://proceedings.mlr.press/v162/yang22j.html) | ICML 2022 |
 | 09/09 | Canceled |  |  |
+| 09/16 | Kaiyuan Zhang | [Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Auditing_Privacy_Defenses_in_Federated_Learning_via_Generative_Gradient_Leakage_CVPR_2022_paper.pdf) | CVPR 2022 |
 
 ### Summer 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
