@@ -13,6 +13,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 09/09 | Canceled |  |  |
 | 09/16 | Canceled |  |  |
 | 09/23 | Kaiyuan Zhang | [Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Auditing_Privacy_Defenses_in_Federated_Learning_via_Generative_Gradient_Leakage_CVPR_2022_paper.pdf) | CVPR 2022 |
+| 09/30 | Zian Su | [Repository-Level Prompt Generation for Large Language Models of Code](https://arxiv.org/pdf/2206.12839.pdf) | arXiv 2022 |
 
 ### Summer 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
