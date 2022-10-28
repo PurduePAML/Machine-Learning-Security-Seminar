@@ -17,6 +17,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 10/07 | Xuan Chen | [Robust Reinforcement Learning with Alternating Training of Learned Adversaries](https://arxiv.org/pdf/2101.08452.pdf) | ICLR 2021 |
 | 10/14 | Canceled |  |  |
 | 10/21 | Lu Yan | [Data Isotopes for Data Provenance in DNNs](https://arxiv.org/pdf/2208.13893.pdf) | arXiv 2022 |
+| 10/28 | Siyuan Cheng | [Patch-Fool: Are Vision Transformers Always Robust Against Adversarial Perturbations?](https://arxiv.org/pdf/2203.08392.pdf) | ICLR 2022 |
 
 ### Summer 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
