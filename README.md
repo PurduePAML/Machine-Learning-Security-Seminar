@@ -18,6 +18,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 10/14 | Canceled |  |  |
 | 10/21 | Lu Yan | [Data Isotopes for Data Provenance in DNNs](https://arxiv.org/pdf/2208.13893.pdf) | arXiv 2022 |
 | 10/28 | Siyuan Cheng | [Patch-Fool: Are Vision Transformers Always Robust Against Adversarial Perturbations?](https://arxiv.org/pdf/2203.08392.pdf) | ICLR 2022 |
+| 11/04 | Guangyu Shen | [Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free](https://arxiv.org/pdf/2205.11819.pdf) | CVPR 2022 |
 
 ### Summer 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
