@@ -21,7 +21,8 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 11/04 | Guangyu Shen | [Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free](https://arxiv.org/pdf/2205.11819.pdf) | CVPR 2022 |
 | 11/11 | Canceled |  |  |
 | 11/18 | Qiuling Xu | [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502.pdf) | ICLR 2021 |
-| 11/25 | Happy Thanksgiving |  |  |
+| 11/25 | Canceled | Happy Thanksgiving |  |
+| 12/02 | Linyi Li (UIUC) | Certifiable Deep Learning at Scale towards Trustworthy Machine Learning |  |
 
 ### Summer 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
