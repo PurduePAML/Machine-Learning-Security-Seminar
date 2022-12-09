@@ -23,6 +23,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 11/18 | Qiuling Xu | [Denoising Diffusion Implicit Models](https://arxiv.org/pdf/2010.02502.pdf) | ICLR 2021 |
 | 11/25 | Canceled | Happy Thanksgiving |  |
 | 12/02 | Linyi Li (UIUC) | Certifiable Deep Learning at Scale towards Trustworthy Machine Learning |  |
+| 12/09 | Shengwei An | [Membership Inference Attacks From First Principles](https://ieeexplore.ieee.org/document/9833649) | S&P 2022 |
 
 ### Summer 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
