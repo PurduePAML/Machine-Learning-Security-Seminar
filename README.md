@@ -24,6 +24,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 11/25 | Canceled | Happy Thanksgiving |  |
 | 12/02 | Linyi Li (UIUC) | Certifiable Deep Learning at Scale towards Trustworthy Machine Learning |  |
 | 12/09 | Shengwei An | [Membership Inference Attacks From First Principles](https://ieeexplore.ieee.org/document/9833649) | S&P 2022 |
+| 12/16 | Canceled | Final Week |  |
 
 ### Summer 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
