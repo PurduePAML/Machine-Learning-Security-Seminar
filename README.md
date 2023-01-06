@@ -4,6 +4,12 @@ Welcome to Machine Learning & Security Seminar, organized by Samuel Conte Profes
 
 [[Fall 2022]](#Fall-2022), [[Summer 2022]](#Summer-2022), [[Spring 2022]](#Spring-2022), [[Fall 2021]](#Fall-2021), [[Summer 2021]](#Summer-2021)
 
+### Spring 2022
+This semester the seminar is co-organized by Kaiyuan Zhang.
+| Date | Discussion Leader | Title | Source |
+| :------| :---------| :-------| :-------|
+| 01/06 | Canceled |  |  |
+
 ### Fall 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
 | Date | Discussion Leader | Title | Source |
