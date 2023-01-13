@@ -9,6 +9,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | Date | Discussion Leader | Title | Source |
 | :------| :---------| :-------| :-------|
 | 01/06 | Canceled |  |  |
+| 01/12 | Guanhong Tao | [The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices](https://arxiv.org/abs/2209.11715) | NDSS 2023 |
 
 ### Fall 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
