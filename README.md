@@ -12,6 +12,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 01/12 | Guanhong Tao | [The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices](https://arxiv.org/abs/2209.11715) | NDSS 2023 |
 | 01/20 | Xuan Chen | [Provable Defense against Backdoor Policies in Reinforcement Learning](https://arxiv.org/pdf/2211.10530.pdf) | NeurIPS 2022 |
 | 01/27 | Zian Su | [Chain-of-Thought Reasoning & TypeT5: Seq2seq Type Inference using Static Analysis](https://openreview.net/pdf?id=4TyNEhI2GdN) | ICLR2023 Under Review |
+| 02/03 | Canceled |  |  |
 
 ### Fall 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
