@@ -13,6 +13,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 01/20 | Xuan Chen | [Provable Defense against Backdoor Policies in Reinforcement Learning](https://arxiv.org/pdf/2211.10530.pdf) | NeurIPS 2022 |
 | 01/27 | Zian Su | [Chain-of-Thought Reasoning & TypeT5: Seq2seq Type Inference using Static Analysis](https://openreview.net/pdf?id=4TyNEhI2GdN) | ICLR2023 Under Review |
 | 02/03 | Canceled |  |  |
+| 02/10 | Kaiyuan Zhang | [FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information](https://arxiv.org/pdf/2210.10936.pdf) | S&P 2023 |
 
 ### Fall 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
