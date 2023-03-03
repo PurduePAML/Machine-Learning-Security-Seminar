@@ -14,6 +14,8 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 01/27 | Zian Su | [Chain-of-Thought Reasoning & TypeT5: Seq2seq Type Inference using Static Analysis](https://openreview.net/pdf?id=4TyNEhI2GdN) | ICLR2023 Under Review |
 | 02/03 | Canceled |  |  |
 | 02/10 | Kaiyuan Zhang | [FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information](https://arxiv.org/pdf/2210.10936.pdf) | S&P 2023 |
+| 02/24 | Canceled |  |  |
+| 03/03 | Lu Yan | [A Study of the Attention Abnormality in Trojaned BERTs](https://aclanthology.org/2022.naacl-main.348.pdf) | NAACL 2023 |
 
 ### Fall 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
