@@ -18,6 +18,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 03/03 | Lu Yan | [A Study of the Attention Abnormality in Trojaned BERTs](https://aclanthology.org/2022.naacl-main.348.pdf) | NAACL 2023 |
 | 03/10 | Yunshu Mao | [PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning](https://arxiv.org/pdf/2205.06401.pdf) | USENIX 2022 |
 | 03/17 | Siyuan Cheng | Backdoor defense |  |
+| 03/24 | Canceled |  |  |
 
 ### Fall 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
