@@ -8,7 +8,6 @@ Welcome to Machine Learning & Security Seminar, organized by Samuel Conte Profes
 This semester the seminar is co-organized by Kaiyuan Zhang.
 | Date | Discussion Leader | Title | Source |
 | :------| :---------| :-------| :-------|
-| 01/06 | Canceled |  |  |
 | 01/12 | Guanhong Tao | [The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices](https://arxiv.org/abs/2209.11715) | NDSS 2023 |
 | 01/20 | Xuan Chen | [Provable Defense against Backdoor Policies in Reinforcement Learning](https://arxiv.org/pdf/2211.10530.pdf) | NeurIPS 2022 |
 | 01/27 | Zian Su | [Chain-of-Thought Reasoning & TypeT5: Seq2seq Type Inference using Static Analysis](https://openreview.net/pdf?id=4TyNEhI2GdN) | ICLR2023 Under Review |
@@ -19,6 +18,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 03/10 | Yunshu Mao | [PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning](https://arxiv.org/pdf/2205.06401.pdf) | USENIX 2022 |
 | 03/17 | Siyuan Cheng | Backdoor defense |  |
 | 03/24 | Canceled |  |  |
+| 03/31 | Guangyu Shen | [Single Image Backdoor Inversion via Robust Smoothed Classifiers](https://arxiv.org/pdf/2303.00215v1.pdf) | CVPR 2023 |
 
 ### Fall 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
