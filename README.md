@@ -18,7 +18,8 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 03/10 | Yunshu Mao | [PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning](https://arxiv.org/pdf/2205.06401.pdf) | USENIX 2022 |
 | 03/17 | Siyuan Cheng | Backdoor defense |  |
 | 03/24 | Canceled |  |  |
-| 03/31 | Guangyu Shen | [Single Image Backdoor Inversion via Robust Smoothed Classifiers](https://arxiv.org/pdf/2303.00215v1.pdf) | CVPR 2023 |
+| 03/31 | Guangyu Shen | [Single Image Backdoor Inversion via Robust Smoothed Classifiers](https://arxiv.org/pdf/2303.00215.pdf) | CVPR 2023 |
+| 04/07 | Canceled |  |  |
 
 ### Fall 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
