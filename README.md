@@ -20,6 +20,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 03/24 | Canceled |  |  |
 | 03/31 | Guangyu Shen | [Single Image Backdoor Inversion via Robust Smoothed Classifiers](https://arxiv.org/pdf/2303.00215.pdf) | CVPR 2023 |
 | 04/07 | Canceled |  |  |
+| 04/14 | Qiuling Xu | [RecSys 2020 Tutorial on Conversational Recommendation Systems](https://zuohuif.github.io/RecSys2020ConvRecTutorial/) | RecSys 2020 |
 
 ### Fall 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
