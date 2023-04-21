@@ -10,7 +10,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | :------| :---------| :-------| :-------|
 | 01/12 | Guanhong Tao | [The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices](https://arxiv.org/abs/2209.11715) | NDSS 2023 |
 | 01/20 | Xuan Chen | [Provable Defense against Backdoor Policies in Reinforcement Learning](https://arxiv.org/pdf/2211.10530.pdf) | NeurIPS 2022 |
-| 01/27 | Zian Su | [Chain-of-Thought Reasoning & TypeT5: Seq2seq Type Inference using Static Analysis](https://openreview.net/pdf?id=4TyNEhI2GdN) | ICLR2023 Under Review |
+| 01/27 | Zian Su | [Chain-of-Thought Reasoning & TypeT5: Seq2seq Type Inference using Static Analysis](https://openreview.net/pdf?id=4TyNEhI2GdN) | ICLR 2023 |
 | 02/03 | Canceled |  |  |
 | 02/10 | Kaiyuan Zhang | [FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information](https://arxiv.org/pdf/2210.10936.pdf) | S&P 2023 |
 | 02/24 | Canceled |  |  |
@@ -21,6 +21,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 03/31 | Guangyu Shen | [Single Image Backdoor Inversion via Robust Smoothed Classifiers](https://arxiv.org/pdf/2303.00215.pdf) | CVPR 2023 |
 | 04/07 | Canceled |  |  |
 | 04/14 | Qiuling Xu | [RecSys 2020 Tutorial on Conversational Recommendation Systems](https://zuohuif.github.io/RecSys2020ConvRecTutorial/) | RecSys 2020 |
+| 04/21 | Canceled |  |  |
 
 ### Fall 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
