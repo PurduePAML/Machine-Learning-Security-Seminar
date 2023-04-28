@@ -22,6 +22,7 @@ This semester the seminar is co-organized by Kaiyuan Zhang.
 | 04/07 | Canceled |  |  |
 | 04/14 | Qiuling Xu | [RecSys 2020 Tutorial on Conversational Recommendation Systems](https://zuohuif.github.io/RecSys2020ConvRecTutorial/) | RecSys 2020 |
 | 04/21 | Canceled |  |  |
+| 04/28 | Shengwei An | [Consistency Models](https://arxiv.org/pdf/2303.01469.pdf) | arXiv 2023 |
 
 ### Fall 2022
 This semester the seminar is co-organized by Kaiyuan Zhang.
